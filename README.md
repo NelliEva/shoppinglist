@@ -1,3 +1,0 @@
-# shoppinglist
-a Shopping app for make these chores easier.
-it is under construction...
